@@ -1,0 +1,31 @@
+.glow_gradient {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    #edeaff 50%,
+    rgba(196, 196, 196, 0) 100%
+  );
+}
+
+.glow_gradient_purple {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    #edeaff 60%,
+    rgba(196, 196, 196, 0) 100%
+  );
+}
+
+.glow_gradient_yellow {
+  background: radial-gradient(
+    30% 30% at 50% 50%,
+    #fdffea 25%,
+    rgba(196, 196, 196, 0) 70%
+  );
+}
+
+.glow_gradient_purple_og {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    #edeaff 0%,
+    rgba(196, 196, 196, 0) 100%
+  );
+}
