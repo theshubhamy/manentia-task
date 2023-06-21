@@ -18,7 +18,7 @@ export default function WorkDemo() {
               className="text-[#868686] text-center font-normal"
             >
               Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's
+              industry. Lorem Ipsum has been the industry&apos;s
             </p>
           </div>
         </div>
